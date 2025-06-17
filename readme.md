@@ -15,3 +15,5 @@ python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
 streamlit run app.py
+![image](https://github.com/user-attachments/assets/442941a3-3f0d-4916-8b0c-68136bd14745)
+
